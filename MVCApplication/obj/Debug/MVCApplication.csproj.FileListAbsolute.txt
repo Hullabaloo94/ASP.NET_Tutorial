@@ -1,0 +1,316 @@
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\ApplicationInsights.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\MVCApplication.dll.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\MVCApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\MVCApplication.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csi.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csi.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\csi.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.AppContext.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Console.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.IO.Compression.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.IO.Pipes.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Claims.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.ValueTuple.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Xml.XPath.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\vbc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\vbc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\vbc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\VBCSCompiler.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Antlr3.Runtime.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.Web.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.ApplicationInsights.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Newtonsoft.Json.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Helpers.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Mvc.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Optimization.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Razor.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.Deployment.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.Razor.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\WebGrease.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Helpers.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Mvc.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Optimization.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.Razor.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.Deployment.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Web.WebPages.Razor.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Newtonsoft.Json.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Antlr3.Runtime.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.AI.Web.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\obj\Debug\MVCApplication.csprojAssemblyReference.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\obj\Debug\MVCApplication.csproj.CoreCompileInputs.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\obj\Debug\MVCApplication.csproj.CopyComplete
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\obj\Debug\MVCApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Dev\MVCApplication\obj\Debug\MVCApplication.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\ApplicationInsights.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\MVCApplication.dll.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\MVCApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\MVCApplication.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csi.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csi.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\csi.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.AppContext.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Console.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.IO.Compression.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.IO.Pipes.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Claims.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.ValueTuple.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Xml.XPath.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\vbc.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\vbc.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\vbc.rsp
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\VBCSCompiler.exe
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Antlr3.Runtime.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.Web.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.ApplicationInsights.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Newtonsoft.Json.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Helpers.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Mvc.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Optimization.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Razor.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.Deployment.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.Razor.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\WebGrease.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Helpers.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Mvc.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Optimization.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.Razor.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.Deployment.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Web.WebPages.Razor.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Newtonsoft.Json.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Antlr3.Runtime.pdb
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.AI.Web.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\obj\Debug\MVCApplication.csprojAssemblyReference.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\obj\Debug\MVCApplication.csproj.CoreCompileInputs.cache
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\obj\Debug\MVCApplication.csproj.CopyComplete
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\obj\Debug\MVCApplication.dll
+C:\SourceCode\Tutorial\LearningAspNet\Exercise Files\Ch04\04_02\MVCApplication\obj\Debug\MVCApplication.pdb
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\ApplicationInsights.config
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\MVCApplication.dll.config
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\MVCApplication.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\MVCApplication.pdb
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Antlr3.Runtime.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.Web.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Newtonsoft.Json.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Helpers.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Mvc.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Optimization.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Razor.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.Razor.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\WebGrease.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Helpers.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Mvc.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Optimization.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.Razor.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Web.WebPages.Razor.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Newtonsoft.Json.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Antlr3.Runtime.pdb
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.AI.Web.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\obj\Debug\MVCApplication.csprojAssemblyReference.cache
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\obj\Debug\MVCApplication.csproj.CopyComplete
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\obj\Debug\MVCApplication.dll
+D:\Users\Jason Hall\Desktop\Ex_Files_Learning_ASP_NET\Exercise Files\Ch04\04_02_Begin\MVCApplication\obj\Debug\MVCApplication.pdb
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\ApplicationInsights.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\MVCApplication.dll.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\MVCApplication.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\MVCApplication.pdb
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Antlr3.Runtime.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Newtonsoft.Json.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Helpers.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Mvc.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Optimization.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Razor.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\WebGrease.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Helpers.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Mvc.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Optimization.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.Razor.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Newtonsoft.Json.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\obj\Debug\MVCApplication.csprojAssemblyReference.cache
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\obj\Debug\MVCApplication.csproj.CopyComplete
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\obj\Debug\MVCApplication.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\obj\Debug\MVCApplication.pdb
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csc.exe
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csc.exe.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csc.rsp
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csi.exe
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csi.exe.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\csi.rsp
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Console.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\vbc.exe
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\vbc.exe.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\vbc.rsp
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\VBCSCompiler.exe.config

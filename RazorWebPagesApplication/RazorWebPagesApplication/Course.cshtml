@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <p>Popular Courses this Month</p>
+    @{ var courses = new List<string>()
+        {
+           "Computer Science",
+           "Data Science",
+           "CyberSecurity"
+        };
+
+        <ul>
+            @{ foreach (string course in courses)
+                {
+                    <li>@course</li>
+                }
+            }
+        </ul>
+    }
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormApplication", "WebFormApplication\WebFormApplication.csproj", "{560FFD9E-7790-4A77-970F-8424F28A8D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetApplication", "AspNetApplication\AspNetApplication.csproj", "{EAD05528-7D6B-4445-8A62-F47D54C7A36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560FFD9E-7790-4A77-970F-8424F28A8D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560FFD9E-7790-4A77-970F-8424F28A8D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560FFD9E-7790-4A77-970F-8424F28A8D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560FFD9E-7790-4A77-970F-8424F28A8D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD05528-7D6B-4445-8A62-F47D54C7A36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD05528-7D6B-4445-8A62-F47D54C7A36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD05528-7D6B-4445-8A62-F47D54C7A36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD05528-7D6B-4445-8A62-F47D54C7A36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC91790F-5708-4DA5-93BC-8D2A26B6D2CA}
+	EndGlobalSection
+EndGlobal
