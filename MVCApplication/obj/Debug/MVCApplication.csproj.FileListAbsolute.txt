@@ -314,3 +314,7 @@ C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\vbc.
 C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\vbc.rsp
 C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\VBCSCompiler.exe
 C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\EntityFramework.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\EntityFramework.xml
+C:\Users\Jason Hall\source\repos\ASP.NET_Tutorial\MVCApplication\bin\EntityFramework.SqlServer.xml
